@@ -1,15 +1,15 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/yap-yeasin/YAP-Yeasin.github.io/blob/master/images/yap@logo.png?raw=true" />
-</p>
+</p> -->
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">there,Good to see you.</h1>
 <h3 align="center">Roboticist & Artificial intelligence Enthusiast.</h3>
 
 <h4 align="center"><i>Enthusiast Robotics with experience working across Robot Intelligence, IoT, Machine Learning & Artificial intelligence. Also, I feel habituate to build things from scratches. I've built some Robots in different robot-fight competitions with my small team (X-Treme) and looking for a role where I can grow and continue to learn from other experienced team members.</i<h4>
 
- <h3 align="center">- 🔭 I’m currently working on my thesis.</h3>
- <h3 align="center">- 🌱 I’m currently trying to learn Everything</h3>
- <h3 align="center">- 🌱 I’m currently learning Artificial intelligence,</h3>
+ <h4 align="center">- 🔭 I’m currently working on my thesis.</h4>
+ <h4 align="center">- 🌱 I’m currently trying to learn Everything</h4>
+ <h4 align="center">- 🌱 I’m currently learning Artificial intelligence,</h4>
 
 ## Reach Me:
 <p align="center">
@@ -20,12 +20,8 @@
 <a href = "#"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/web.png?raw=true" width="48" height="48"></a>
 <a href = "#"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/hackerrank.png?raw=true" width="48" height="48"></a>
 <a href = "#"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/Messenger_1.png?raw=true" width="48" height="48"></a>
-
-
-<br/>
-
 ## 📊 My Github Stat
-  <br/>
+<br/>
     <a><img alt="Yeasin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yap-yeasin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a><img alt="Yeasin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yap-yeasin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D11" /></a>
  
