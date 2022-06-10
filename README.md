@@ -8,7 +8,8 @@
 <h4 align="center"><i>Enthusiast Robotics with experience working across Robot Intelligence, IoT, Machine Learning & Artificial intelligence. Also, I feel habituate to build things from scratches. I've built some Robots in different robot-fight competitions with my small team
   (X-Treme) and looking for a role where I can grow and continue to learn from other experienced team members.</i<h4>
 
- <h3 align="center">- 🔭 I’m currently working on my thesis.</h3>
+<!--  <h3 align="center">- 🔭 I’m currently working on my thesis.</h3> -->
+ <h3 align="center">- 🔭 I’m currently Looking for a job.</h3>
 <!--  <h3 align="center">- 🌱 I’m currently trying to learn Everything</h3> -->
  <h3 align="center">- 🌱 I’m currently learning Deep Learning</h3>
 
