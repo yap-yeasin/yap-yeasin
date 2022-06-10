@@ -2,7 +2,7 @@
   <img src="https://github.com/yap-yeasin/YAP-Yeasin.github.io/blob/master/images/yap@logo.png?raw=true" />
 </p> -->
  
-<h1 align="center">Hi <img src="https://github.com/yap-yeasin/yap-yeasin.github.io/blob/master/assets/img/hello-wave.gif" width="10 px" height="10 px">there,Good to see you.</h1>
+<h1 align="center">Hi <img src="https://github.com/yap-yeasin/yap-yeasin.github.io/blob/master/assets/img/hello-wave.gif" width="30 px" height="30 px">there,Good to see you.</h1>
 <!-- <h3 align="center">Roboticist & Artificial intelligence Enthusiast.</h3> -->
 
 <h4 align="center"><i>Enthusiast Robotics with experience working across Robot Intelligence, IoT, Machine Learning & Artificial intelligence. Also, I feel habituate to build things from scratches. I've built some Robots in different robot-fight competitions with my small team
