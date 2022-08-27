@@ -33,7 +33,8 @@
 
 
 <p>
-<img height="273em" src="https://leetcode.card.workers.dev/payek?theme=nord&font=baloo&extension=activity" />
+<img height="273em" src="https://leetcode.card.workers.dev/payek?theme=nord&font=baloo&extension=null" />
+<!-- <img height="273em" src="https://leetcode.card.workers.dev/payek?theme=nord&font=baloo&extension=activity" /> -->
 </p>
 
   <br/>
