@@ -31,15 +31,15 @@
   
 ## 📊 My Stat
 
-
+  <br/>
+    <a><img alt="Yeasin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yap-yeasin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a><img alt="Yeasin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yap-yeasin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D11" /></a>
+ 
 <p>
 <img height="273em" src="https://leetcode.card.workers.dev/payek?theme=nord&font=baloo&extension=null" />
 <!-- <img height="273em" src="https://leetcode.card.workers.dev/payek?theme=nord&font=baloo&extension=activity" /> -->
 </p>
-
-  <br/>
-    <a><img alt="Yeasin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yap-yeasin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a><img alt="Yeasin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yap-yeasin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D11" /></a>
+ 
  
 <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?yap-yeasin" frameborder="0"></iframe> -->
 <br/>
