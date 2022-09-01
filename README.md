@@ -30,21 +30,26 @@
 <!--mail by app -->
   
 ## 📊 My Stat
+<p>
+<img height="200em" src="https://leetcode.card.workers.dev/payek?theme=nord&font=baloo&extension=null" />
+<!-- <img height="273em" src="https://leetcode.card.workers.dev/payek?theme=nord&font=baloo&extension=activity" /> -->
+</p>
 
   <br/>
     <a><img alt="Yeasin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yap-yeasin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a><img alt="Yeasin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yap-yeasin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D11" /></a>
  
-<p>
-<img height="273em" src="https://leetcode.card.workers.dev/payek?theme=nord&font=baloo&extension=null" />
-<!-- <img height="273em" src="https://leetcode.card.workers.dev/payek?theme=nord&font=baloo&extension=activity" /> -->
-</p>
- 
- 
-<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?yap-yeasin" frameborder="0"></iframe> -->
+<!-- <iframe width="100" height="100" src="https://ionicabizau.github.io/github-profile-languages/api.html?yap-yeasin" frameborder="0"></iframe> -->
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</b><br>
   
 <!-- <a href="https://github.com/yap-yeasin/github-readme-activity-graph"><img alt="yeasin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yap-yeasin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
   
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yap-yeasin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
+
+
+
+<!-- <h3 align="left">Languages and Tools:</h3>  -->
+<!--  <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>   -->
