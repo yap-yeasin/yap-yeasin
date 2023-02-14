@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://github.com/yap-yeasin/yap-yeasin.github.io/blob/master/assets/img/wave.gif" "border-radius: 50%" width="50 px" height="50 px" >there,Good to see you.</h1>
 <!-- <h3 align="center">Roboticist & Artificial intelligence Enthusiast.</h3> -->
 
-<h4 align="center"><i>Enthusiast Robotics with experience working across Robot Intelligence, IoT, Machine Learning & Artificial intelligence. Also, I feel habituate to build things from scratches. I've built some Robots in different robot-fight competitions with my small team
+<h4 align="center"><i>Enthusiast about robotics with experience working across Robot Intelligence, IoT, Machine Learning & Artificial intelligence. Also, I feel habituate to build things from scratches. I've built some Robots in different robot-fight competitions with my small team
   (X-Treme) and looking for a role where I can grow and continue to learn from other experienced team members.</i<h4>
 
 <!--  <h3 align="center">- 🔭 I’m currently working on my thesis.</h3> -->
