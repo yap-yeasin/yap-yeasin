@@ -17,11 +17,11 @@
 <p align="center">
 
 <!-- <a href = "https://github.com/yap-yeasin"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/github.png?raw=true" width="48" height="48"></a> -->
-<a href = "https://www.linkedin.com/in/yap8"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/Linkdin.png?raw=true" width="48" height="48"></a>
+<a href = "https://www.linkedin.com/in/yap8"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/Linkdin.png?raw=true" width="52" height="52"></a>
 <a href = "https://leetcode.com/payek"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/leetcode1.png" width="48" height="48"></a>
 <a href = "https://codeforces.com/profile/yonow"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/codeforces.png?raw=true" width="48" height="48"></a>
 <a href = "https://www.youtube.com/channel/UCi-vo8JxWFeI_DJcjvwGnXw/featured"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/youtube.png?raw=true" width="48" height="48"></a>
-<a href = "https://yap-yeasin.github.io/"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/web.png?raw=true" width="48" height="48"></a>
+<a href = "https://yap-yeasin.github.io/"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/website.png?raw=true" width="48" height="48"></a>
 <a href = "https://www.kaggle.com/yapyeasin"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/K.png?raw=true" width="40" height="48"></a>
 <a href = "https://www.hackerrank.com/YoNowYAP"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/hackerrank.png?raw=true" width="48" height="48"></a>
 <a href = "https://m.me/yap.yeasin"><img src="https://github.com/yap-yeasin/yap-yeasin/blob/main/Messenger_1.png?raw=true" width="48" height="48"></a>
